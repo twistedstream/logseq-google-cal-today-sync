@@ -1,0 +1,9 @@
+{
+  "id": "logseq-google-cal-today-sync",
+  "name": "Google Cal Today Sync",
+  "description": "Adds a /sync-calendar command to insert today's Google Calendar events into Logseq using custom templates.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "twistedstream",
+  "license": "MIT"
+}

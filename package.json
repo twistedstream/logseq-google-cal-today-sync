@@ -1,0 +1,15 @@
+{
+  "name": "logseq-google-cal-today-sync",
+  "version": "1.0.0",
+  "description": "Logseq plugin to sync today's Google Calendar events using a slash command and templates.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "twistedstream",
+  "license": "MIT",
+  "dependencies": {
+    "@logseq/libs": "^0.0.14",
+    "dayjs": "^1.11.9",
+    "googleapis": "^131.0.0",
+    "open": "^9.0.0"
+  }
+}
